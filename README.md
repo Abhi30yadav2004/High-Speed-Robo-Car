@@ -6,20 +6,6 @@ This project was developed as a mini project for the **B.Tech CSE-IoT** program 
 
 ---
 
-## 📸 Project Preview
-
-<p align="center">
-  <img src="Images/Picture1.jpg" width="45%">
-  <img src="Images/Picture2.jpg" width="45%">
-</p>
-
-<p align="center">
-  <img src="Images/Picture3.png" width="45%">
-  <img src="Images/Picture4.jpg" width="45%">
-</p>
-
----
-
 ## 📌 Project Overview
 
 The **High-Speed Robo Car** is a remotely controlled robotic vehicle designed around the ESP32 microcontroller.
